@@ -1,5 +1,5 @@
-==Vin generator 
+#Vin generator 
 
-*Thanks @Dikmax
+####Thanks @Dikmax
 
 Returns in json array of similar vins from given vin number.
