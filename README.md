@@ -2,6 +2,6 @@
 
 ####Thanks @Dikmax
 
-Returns in json array of similar vins from given vin number.
+Returns json of similar vins from given vin number.
 
 Requires sinatra & rubygems.
